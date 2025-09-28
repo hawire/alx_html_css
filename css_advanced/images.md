@@ -4,12 +4,12 @@
 <img width="150" height="150" alt="2" src="https://github.com/user-attachments/assets/88457f05-f2f7-4760-99bf-2f6d73590f45" />
 
 <img width="150" height="150" alt="3" src="https://github.com/user-attachments/assets/3738c480-2fe2-4be9-9ae1-9994acda4d55" />
-![6d2f9f176509773 64c66a5baaad8](https://github.com/user-attachments/assets/de612861-d044-4fce-823e-bb4c9b10839a)
-
-<img width="4500" height="4500" alt="instagram-app-icon-instagram-logos-brand-17" src="https://github.com/user-attachments/assets/bed4cf46-15d9-4109-b5ca-a14a69f31d33" />
 
 
-<img width="1403" height="1258" alt="R" src="https://github.com/user-attachments/assets/09867ecf-a1a8-4214-9607-ec850ccc8ca8" />
+<img width="150" height="150" alt="instagram-app-icon-instagram-logos-brand-17" src="https://github.com/user-attachments/assets/bed4cf46-15d9-4109-b5ca-a14a69f31d33" />
+
+
+<img width="150" height="150" alt="R" src="https://github.com/user-attachments/assets/09867ecf-a1a8-4214-9607-ec850ccc8ca8" />
 
 
 <img width="150" height="150" alt="4" src="https://github.com/user-attachments/assets/a2a7cf63-9be3-4001-b467-f8c4a2145bc8" />
