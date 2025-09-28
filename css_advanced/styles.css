@@ -108,22 +108,37 @@ header {
   font-weight: bold;
 }
 
-/* Banner styles */
+
 .banner {
+  position: relative;
   background-image: url('https://github.com/user-attachments/assets/77cd81db-637e-468a-9582-db5e0e0f574d');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 700px;   
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+  color: white; 
+  padding: 0 20px; 
 }
 
-.banner-content h1 {
-  font-size: 4rem;
-  margin-bottom: 20px;
+.banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1;
 }
+
+.banner > * {
+  position: relative; 
+  z-index: 2;
+}
+
 
 .buttons {
   display: flex;
@@ -147,7 +162,7 @@ header {
   color: white;
 }
 .quote-section {
-  background-color: #C271FF; /* Purple background */
+  background-color: #C271FF;
   color: white;
   padding: 60px 20px;
   text-align: center;
@@ -311,7 +326,7 @@ h1, h2, h3 {
 }
 
 section {
-  padding: 80px 0; /* adds breathing space */
+  padding: 80px 0;
 }
 
 .video-card, .membership-card {
