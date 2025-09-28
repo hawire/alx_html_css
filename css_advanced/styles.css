@@ -304,4 +304,28 @@ blockquote footer {
   opacity: 0.7;
 }
 
+h1, h2, h3 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+section {
+  padding: 80px 0; /* adds breathing space */
+}
+
+.video-card, .membership-card {
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 25px;
+}
+
+
+
 
