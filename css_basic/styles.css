@@ -1,0 +1,50 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;     
+  min-height: 0; 
+}
+
+article {
+  flex: 2;
+  overflow-y: auto;
+  padding: 1rem;
+  min-height: 0; 
+  background: #ffffff;
+}
+
+aside {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+  min-height: 0;
+  background: #f1f5f9;
+}
+header, footer {
+  flex: 0 0 auto;
+}
+
+@media (max-width: 800px) {
+  body.works_on_smartphone main {
+    flex-direction: column;
+  }
+}
+
+header a {
+  color: #ffffff;
+}
+
+header .logo {
+  margin-right: 0.5rem;
+}
+
+article h1, article h2, article h3 {
+  margin-bottom: 0.5rem;
+}
