@@ -304,10 +304,4 @@ blockquote footer {
   opacity: 0.7;
 }
 
-.banner {
-  background-image: url("images/banner.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 700px;
-}
 
